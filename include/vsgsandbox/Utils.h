@@ -1,6 +1,5 @@
 #pragma once
 
-#include <vsg/core/Array.h>
 #include <vsg/core/Array2D.h>
 // Some useful functions
 
